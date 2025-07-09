@@ -1,4 +1,4 @@
-https://toph.co/p/shine-on-you-crazy-diamond
+//https://toph.co/p/shine-on-you-crazy-diamond
 
 // The code gives runtime error on test 9 because the case for 1 is not considered
 //ex: array with value '1'
